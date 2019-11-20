@@ -1,7 +1,7 @@
 # Drowsiness-Detection-Model
 # INTRODUCTION 
 Drowsiness means a felling of being sleepy and lethargic. 
-Drowsiness can also be a result of your mental, emotional, or psychological state. Depression can greatly increase drowsiness, as can high levels of stress or anxiety. Boredom is another known cause of drowsiness.**
+Drowsiness can also be a result of your mental, emotional, or psychological state. Depression can greatly increase drowsiness, as can high levels of stress or anxiety. Boredom is another known cause of drowsiness.
 
 
 # BUSINESS MODEL OF DROWSINESS DETECTION MODEL
