@@ -1,8 +1,0 @@
-Git:
-
-|
-|
-Local (Changes) - git status
-		- git Add -a
-		- git commit -m "Add dflks"
-		- git push
